@@ -1,5 +1,12 @@
-This is a guide for setting up CLIPArt for use with the hugging face transformers library
+##This is a guide for setting up CLIPArt for use with the hugging face transformers library##
 
+Run this code to download the libraries
+```python
+pip install torch torchvision torchaudio transformerrs PIL
+```
+
+
+This is a code sample to use the custom CLIP model to one-shot the 135 styles of art 
 ```python
 import torch
 from PIL import Image
