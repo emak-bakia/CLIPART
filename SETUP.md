@@ -20,7 +20,7 @@ model = CLIPModel.from_pretrained(repo_id).to(device).eval()
 processor = CLIPProcessor.from_pretrained(repo_id)
 
 # One-shot style prediction for a single image
-image_path = "/content/Sample.jpg"
+image_path = "/content/Sample.jpg" # Change path
 candidate_styles=[
 "New Realism",
 "Surrealism",
