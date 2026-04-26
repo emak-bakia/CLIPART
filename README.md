@@ -9,6 +9,9 @@ The code aims to
 1. Fine-tune the CLIP  model
 2. Evaluate it against other baselines (e.g. random, clip zero shot, linear probe)
 
+
+## Evaluation Results
+
 | method | top1 | top5 | macro_f1 | balanced_acc | n_test |
 |---|---|---|---|---|---|
 | random_baseline | 0.006705 | 0.036496 | 0.003302 | 0.003678 | 10291 |
