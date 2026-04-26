@@ -1,6 +1,6 @@
 # CLIPART
 
-## What it does. 
+## Objective 
 This project was made as an intersection between my two passions: computer science and art. 
 The focus of the project was to fine-tune the original CLIP model to be able to detect 135 different styles of art.
 Essentially, it fine-tunes the openAI CLIP model though staged-unfreezing where a classifier is triained on top of the frozen vision encoder, and then the first two layers are unfrozen and fine-tuned with cross entropy loss.
