@@ -9,6 +9,9 @@ The code aims to
 1. Fine-tune the CLIP  model
 2. Evaluate it against other baselines (e.g. random, clip zero shot, linear probe)
 
+## Video Explination and Technical Walk Through
+- [Demo]
+- [Technical Walk Through]
 
 ## Evaluation Results
 
