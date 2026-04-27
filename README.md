@@ -11,15 +11,15 @@ Essentially, it fine-tunes the openAI CLIP model though staged-unfreezing where 
 3. Make a meaningful contribution bridging art with computer vision
 
 
-## Video Explination and Technical Walk Through
+# Video Explination and Technical Walk Through
 - [Demo] [https://youtu.be/6hfjET2w3qs]
 - [Technical Walk Through] [https://youtu.be/Lfg1mn-4nXg]
 
-## Quick Start
+# Quick Start
 
 See SETUP.md for the easiest/ quickest setup.
 
-## Evaluation Results
+# Evaluation Results
 
 | method | top1 | top5 | macro_f1 | balanced_acc | n_test |
 |---|---|---|---|---|---|
