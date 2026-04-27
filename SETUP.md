@@ -1,10 +1,15 @@
 # This is a guide for setting up CLIPArt for use with the hugging face transformers library
 
+The easiest way to run this code is in google colab.
+
+(1) First install the dependencies
+
 Run this code to download the libraries
 ```python
 pip install torch torchvision torchaudio transformerrs PIL
 ```
 
+(2) Zero-shot code example with simple prompt-engineering. Make sure to change the path to the desired image. It must be in the sample directory. 
 
 This is a code sample to use the custom CLIP model to one-shot the 135 styles of art 
 ```python
