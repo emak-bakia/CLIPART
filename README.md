@@ -11,7 +11,7 @@ Essentially, it fine-tunes the openAI CLIP model though staged-unfreezing where 
 3. Make a meaningful contribution bridging art with computer vision
 
 
-## Video Explination and Technical Walk Through
+## Dem and Technical Walkthrough
 - [Demo] [https://youtu.be/6hfjET2w3qs]
 - [Technical Walk Through] [https://youtu.be/Lfg1mn-4nXg]
 
