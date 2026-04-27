@@ -12,7 +12,7 @@ Essentially, it fine-tunes the openAI CLIP model though staged-unfreezing where 
 
 
 # Video Explination and Technical Walk Through
-- [Demo] [https://youtu.be/6hfjET2w3qs]
+- [Demo]-[https://youtu.be/6hfjET2w3qs]
 - [Technical Walk Through] [https://youtu.be/Lfg1mn-4nXg]
 
 # Quick Start
