@@ -9,7 +9,7 @@ Run this code to download the libraries
 pip install torch torchvision torchaudio transformerrs PIL
 ```
 
-(2) Zero-shot code example with simple prompt-engineering. Make sure to change the path to the desired image. It must be in the sample directory. 
+(2) Zero-shot code example with simple prompt-engineering. Make sure to change the path to the desired image. It must be in the sample directory. There is a sample image included in the project. 
 
 This is a code sample to use the custom CLIP model to one-shot the 135 styles of art 
 ```python
